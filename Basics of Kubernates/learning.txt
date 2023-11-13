@@ -1,0 +1,21 @@
+----------------------------------------------------------------------
+
+##      What is containerD?     ##
+
+----------------------------------------------------------------------
+
+##  Difference between ctr and nerdctl ? ##
+
+----------------------------------------------------------------------
+
+##  Difference between crictl and nerdctl ? ##
+
+----------------------------------------------------------------------
+
+[ https://kubernetes.io/docs/reference/tools/map-crictl-dockercli/ ]
+
+https://github.com/kubernetes-sigs/cri-tools/pull/869
+
+https://github.com/kubernetes-sigs/cri-tools/issues/868
+
+----------------------------------------------------------------------
