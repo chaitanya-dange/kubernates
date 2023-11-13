@@ -1,2 +1,7 @@
 1) yaml extension published by RedHat for vsCode .
-2)
+    - setting  --> extension setting  --> yamlschema  --> edit in setting.json -->add
+                                                                                    "yaml.schemas": {
+        
+
+                                                                                            "kubernetes": "*.yaml"
+                                                                                     }
