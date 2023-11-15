@@ -5,3 +5,7 @@
 ## how to create the ReplicationController yaml file for kubernetes???
 
 ## command  to create the replication controller/ replica set
+
+## how to edit the replica in replica set and then run it
+
+## what is kubectl scale replicaset command??
