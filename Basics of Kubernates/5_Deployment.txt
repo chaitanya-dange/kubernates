@@ -1,0 +1,36 @@
+##      What are the rolling updates?
+##      Deployment.yaml file and how to make use of it...
+
+==>kubectl get all 
+
+==> kubectk get deployment
+
+
+
+## Updates/Versioning and Rollback in Deployment in kubernetes
+
+
+
+
+==> kubectl create -f deployment-defination.yaml
+and 
+==> kubectl create -f deployment-defination.yaml --record
+
+
+==> kubectl apply  -f deployment-defination.yaml
+
+
+
+
+==> kubectl edit deployment myapp-deployment --record
+
+==> kubectl set image deployment/myapp-deployment nginx=nginx:1.9.1
+
+
+
+==> kubectl rollout status deployment/myapp-deployment
+
+==> kubectl rollout history deployment/myapp-deployment
+
+==> kubectl rollout undo deployment/myapp-deployment
+
