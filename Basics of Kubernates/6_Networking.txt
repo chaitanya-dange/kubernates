@@ -1,0 +1,16 @@
+##      Networking in kubernetes
+
+Note:
+-> In kubernetes world the ip address is assign to pod and in docker world the ip address is 
+assign to container
+-> Each pod in kubernetes get's its own internal ip 
+
+
+
+QUESTION : How the networking works in mutiple node cluster for pods?
+QUESTION : What are the different types of networking tool for kubernetes???
+
+
+
+When kubernetes cluster is setup it doesnot automatically  handle the networking part ?
+
