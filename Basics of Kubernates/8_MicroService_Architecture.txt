@@ -1,0 +1,23 @@
+##      MicroService Architecture... 
+
+QUESTION: what is difference between link and network command in docker ?
+QUESTION: what is difference between pod and deployment in kubernetes ?
+QUESTION: what are the challenges of pod , why deployment is better choice?
+
+[   https://github.com/dockersamples/example-voting-app    ]
+
+what is significance of port 80 ?
+
+Images are available on docker hub
+    -> kodekloud/examplevotingapp_vote:v1
+    -> kodekloud/examplevotingapp_result:v1
+    -> redis
+    -> postgress
+    -> 
+
+
+    ==> minicube service voting-service --url
+    ==> kubectl scale deployment voting-app-deploy --replica=3
+
+
+[ https://github.com/kodekloudhub/example-voting-app/tree/master/k8s-specifications ]    

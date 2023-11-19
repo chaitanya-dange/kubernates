@@ -1,0 +1,19 @@
+## kubernetes Services 
+
+QUESTION: What are the different usecase of Services?
+QUESTION: What is nodePort Services?
+QUESTION: What are the clusterIP Services?
+QUESTION: What are the loadbalancer Services in kubernetes?
+QUESTION: What is use of label and selectors in kubernetes? and it's usecase?
+QUESTION: Create the service which mapped to single port?
+QUESTION: Create the service which mapped to mutiple port?
+QUESTION: Create the service which mapped to mutiple nodes?
+
+
+
+
+-------------------------------------------------------------------------
+==> kubectl create -f service-defination.yaml
+==> kubectl get Services
+==> minicube service myapp-service --url
+==> 
