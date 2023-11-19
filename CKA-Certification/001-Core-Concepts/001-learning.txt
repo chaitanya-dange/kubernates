@@ -1,0 +1,18 @@
+##  Cluseter Architecture 
+
+[ https://kubernetes.io/docs/concepts/architecture/ ]
+
+* Master node
+* Worker node
+* etcd cluster
+* kube-scheduler
+* controller manager
+* kube-apiServer
+* kubelet
+* kubeproxy
+
+--------------------------------------------------------------------------------
+## docker VS containerD
+
+QUESTION: what is open container initiative?
+QUESTION: difference between ctr VS nerdctl VS crictl and which cli is used in production level ?
