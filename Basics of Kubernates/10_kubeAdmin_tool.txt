@@ -1,0 +1,23 @@
+## What is kubeadm ??
+## What is container runtime and what is it's use in kubernetes ??
+## What is pod network ??
+
+For mutiple node , virtual machines or vagrant is used .
+
+[ https://github.com/kodekloudhub/certified-kubernetes-ahttps://github.com/kodekloudhub/certified-kubernetes-administrator-course/tree/masterdministrator-course/tree/master ]--> vagrant file
+
+clone it 
+--> vagrant status
+--> vagrant up
+
+( open this node's in different terminal )
+
+--> vagrant ssh kubemaster(master node name)
+--> vagrant ssh kubenode01
+--> vagrant ssh kubenode02
+
+
+-----------------------------------------------------------------------
+installing kubeadm ( https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/ )
+
+
