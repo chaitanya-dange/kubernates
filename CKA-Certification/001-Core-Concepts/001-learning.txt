@@ -16,3 +16,12 @@
 
 QUESTION: what is open container initiative?
 QUESTION: difference between ctr VS nerdctl VS crictl and which cli is used in production level ?
+
+--------------------------------------------------------------------------------
+
+## etcD for containers
+
+etcd , installation, command, significance
+
+--------------------------------------------------------------------------------
+## Kube api server
