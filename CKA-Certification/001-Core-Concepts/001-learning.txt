@@ -25,3 +25,60 @@ etcd , installation, command, significance
 
 --------------------------------------------------------------------------------
 ## Kube api server
+
+--------------------------------------------------------------------------------
+
+## kubee controller manager
+    node controller
+    relication controller and many others...
+--------------------------------------------------------------------------------
+
+## kube scheduler
+    -> working
+    -> how to install binaries of it
+    -> what are the common command of it.
+--------------------------------------------------------------------------------
+
+## kubelet
+    have to manually install it on the worker node.download a installer extract it and run it as service.
+--------------------------------------------------------------------------------
+
+## kube proxy
+  installing it -> download binary from kubernetes page , extract it and run it as service
+
+QUESTION: what is demonset
+--------------------------------------------------------------------------------
+## pod
+    -> simple pod defination  in kubernetes?
+    -> better and complex pod defination ? 
+    -> best pod defination and great complexity  ?
+    
+QUESTION: How to create the pod, directly by pulling image from docker-hub and with pod defination yaml file ?
+QUESTION: how pod of frontend can be different that pod of backend in kubernetes? explain it by giving pod defination example ? 
+QUESTION: WHAT  are all attributes of pod definition file with example? 
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
