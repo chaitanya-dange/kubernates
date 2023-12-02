@@ -2,6 +2,8 @@
 
 [ https://kubernetes.io/docs/concepts/architecture/ ]
 
+[ https://kubernetes.io/docs/reference/kubectl/conventions/ ]
+
 * Master node
 * Worker node
 * etcd cluster
@@ -58,8 +60,28 @@ QUESTION: how pod of frontend can be different that pod of backend in kubernetes
 QUESTION: WHAT  are all attributes of pod definition file with example? 
 
 --------------------------------------------------------------------------------
+
+## Deployment 
+
+QUESTION: what are the rolling updates in kubernetes?
+QUESTION: Deployment defination file, easy, medium and complex ?
+
 --------------------------------------------------------------------------------
+
+## Services
+
+QUESTION: What are the differet types of services in kubernetes ?
+QUESTION: What are the endpoints in kubernetes ??
+
+
+    service cluster IP, service load balancer, service node cluster and their yaml files.
+
 --------------------------------------------------------------------------------
+
+## Namespaces
+
+
+
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
