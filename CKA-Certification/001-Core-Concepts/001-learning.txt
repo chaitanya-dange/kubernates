@@ -98,7 +98,13 @@ QUESTION: What are the endpoints in kubernetes ??
 --------------------------------------------------------------------------------
 
 ## kubectl apply
+    -last apply configuration file.
+    [ https://kubernetes.io/docs/tasks/manage-kubernetes-objects/declarative-config/ ]
     
+only apply command stores last configurationa,, create and replace command does not create `last apply configuration `
+
+
+
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
