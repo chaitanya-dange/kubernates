@@ -1,0 +1,27 @@
+-----##     SCHEDULING   ##-----
+
+###  Manual SCHEDULING
+
+        -  Manual Scheduling.
+        QUESTION: How to do manual scheduling in kubernetes ?
+
+
+
+###  Labels and selectors 
+
+        QUESTION: What are labels and selectors , why and how to use it in kubernetes ?
+        QUESTION: What are annotations, why and how to use them, examples of files in which used ?
+
+
+
+###  Taints and Tolerations.
+
+        Taints are set on nodes and Tolerations are set on pods.and example of it in yaml file in kubernetes ?
+
+        Notes: taint and toleration doesnot tell pod to go to particular node.
+
+
+        QUESTION:different type of taint effects ?
+        QUESTION: how to taint and untaint the node , explain with example with yaml file in kubernetes ?
+
+
