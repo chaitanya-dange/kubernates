@@ -79,11 +79,26 @@ QUESTION: What are the endpoints in kubernetes ??
 --------------------------------------------------------------------------------
 
 ## Namespaces
-
+            - Default, kube-system, kube-public
+    QUESTION: how to create custom Namespaces ? and resource quota files ? and command to apply them ??
 
 
 --------------------------------------------------------------------------------
+
+## Imperative Vs Declarative approches in kubernetes
+
+    what are the advantages and disadvantages of it ??
+
+    [ https://kubernetes.io/docs/tasks/manage-kubernetes-objects/ ]
+
+    [ https://kubernetes.io/docs/reference/kubectl/conventions/ ]
+
+    [ https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands ]
+
 --------------------------------------------------------------------------------
+
+## kubectl apply
+    
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 
