@@ -25,3 +25,23 @@
         QUESTION: how to taint and untaint the node , explain with example with yaml file in kubernetes ?
 
 
+
+##  Nodes selectors
+
+    can't provide advance features like `or` , `and` .
+
+        QUESTION: example with yaml defination file, what are the limitations of it ?
+        QUESTION: how to label the node ?
+
+
+
+##  Nodes Affinity                 
+
+    it provide advance features like    `and` , `or` to limit pod placement on specific nodes.
+
+        QUESTION: what are the different types of operator in node affinity ?
+        QUESTION: types of node affinity ?
+
+
+
+
