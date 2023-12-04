@@ -1,5 +1,7 @@
 -----##     SCHEDULING   ##-----
 
+{   -o flag commands in kubernetes   }
+
 ###  Manual SCHEDULING
 
         -  Manual Scheduling.
@@ -37,10 +39,53 @@
 
 ##  Nodes Affinity                 
 
-    it provide advance features like    `and` , `or` to limit pod placement on specific nodes.
+        it provide advance features like    `and` , `or` to limit pod placement on specific nodes.
 
         QUESTION: what are the different types of operator in node affinity ?
         QUESTION: types of node affinity ?
+
+        [ https://kubernetes.io/docs/concepts/scheduling-eviction/assign-pod-node/ ]
+
+
+
+##  Taints and Tolerations VS node affinity
+
+        how to use them combinedly ?
+
+
+
+
+##  Resource Limits    
+
+        limits and request are set for each container in pods.
+        - limits and memory is only applied when new pod is creates, and does not affect existing pods
+
+        QUESTION: limit range and memeory range yaml file for kubernetes?
+        QUESTION: resource quota's ??
+
+        [ https://kubernetes.io/docs/tasks/administer-cluster/ ]
+        [ https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/ ]
+        [ https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/cpu-default-namespace/   ]
+        [ https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/memory-default-namespace/  ]
+
+
+
+##  Deamon Sets
+
+        QUESTION: what are deamon set ?
+        QUESTION: what are the useCases of deamon set ?
+        QUESTION: defination file of deamon set in kubernetes ?
+
+
+
+## Static pods
+
+
+        QUESTION: difference between static pods vs daemon set ??
+        
+
+
+
 
 
 
